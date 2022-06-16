@@ -60,3 +60,4 @@ Interfaz en React Js para probar Funciones GET, POST, PUT, DELETE.
     
 
 <!--endsec-->
+![screenshot](machines.PNG)
