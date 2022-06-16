@@ -43,7 +43,7 @@ https://nodejs.org/en/download/current/
 
 <!--endsec-->
 ## Abrir en el navegador
-[http://127.0.0.1:8000/machine](http://127.0.0.1:8000/)
+[http://127.0.0.1:8000/machine](http://127.0.0.1:8000/machine)
 
 ![screenshot](https://github.com/agusabas/BackEnd-App/blob/62b5b3e65bb3c07487eebc11a2a276dee90fbb76/machines%202.PNG)
 
