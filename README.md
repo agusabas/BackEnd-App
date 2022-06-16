@@ -38,6 +38,8 @@ https://nodejs.org/en/download/current/
 ## Abrir en el navegador
 [http://127.0.0.1:8000/machine](http://127.0.0.1:8000/)
 
+![screenshot](https://github.com/agusabas/BackEnd-App/blob/62b5b3e65bb3c07487eebc11a2a276dee90fbb76/machines%202.PNG)
+
 # Yapa! Interfaz UI
 Interfaz en React Js para probar Funciones GET, POST, PUT, DELETE.
 <!--sec data-title="Comandos" data-id="OSX_Linux_whoami" data-collapse=true ces-->
