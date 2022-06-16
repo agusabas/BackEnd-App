@@ -3,7 +3,7 @@ Seguir los pasos para ejecutar el servidor
 ## Instalación de Python 
 https://www.python.org/downloads/
 ## Inslación de NodeJs
-https://nodejs.org/en/download/
+https://nodejs.org/en/download/current/
 ## Abrir ventana de comandos en AcronexApi
 <!--sec data-title="Comandos" data-id="OSX_Linux_whoami" data-collapse=true ces-->
 
