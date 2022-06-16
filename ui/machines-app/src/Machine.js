@@ -218,12 +218,8 @@ export class Machine extends Component {
                                 <td>{machin.MachineName}</td>
                                 <td>{machin.MachineClass}</td>
                                 <td>{machin.MachineCompany}</td>
-                                <td>{machin.MachineState}
-                                    <button type="button" className="btn btn-light mr-1">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-toggle-off" viewBox="0 0 16 16">
-                                            <path d="M11 4a4 4 0 0 1 0 8H8a4.992 4.992 0 0 0 2-4 4.992 4.992 0 0 0-2-4h3zm-6 8a4 4 0 1 1 0-8 4 4 0 0 1 0 8zM0 8a5 5 0 0 0 5 5h6a5 5 0 0 0 0-10H5a5 5 0 0 0-5 5z" />
-                                        </svg>
-                                    </button>
+                                <td>
+                                    {machin.MachineState ? <button className="button button2"></button> : <button className="button button1"></button>}
                                 </td>
                                 <td>
                                     <button type="button" className="btn btn-light mr-1" data-bs-toggle="modal" data-bs-target="#exampleModal"
