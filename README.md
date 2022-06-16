@@ -8,6 +8,13 @@ https://nodejs.org/en/download/current/
 <!--sec data-title="Comandos" data-id="OSX_Linux_whoami" data-collapse=true ces-->
 
 
+    > cd AcronexApi
+    
+
+<!--endsec-->
+<!--sec data-title="Comandos" data-id="OSX_Linux_whoami" data-collapse=true ces-->
+
+
     > pip install django
     
 
@@ -51,7 +58,7 @@ Interfaz en React Js para probar Funciones GET, POST, PUT, DELETE.
 <!--endsec-->
 # Instalacion
 
-1- Instalar NodeJs -> https://nodejs.org/es/download/ .
+1- Instalar NodeJs -> https://nodejs.org/es/download/current/  **Importante:Última versión requerida** (nótese "current" (ultima version) en la dirección).
 
 ## Lanzar servidor local
 
