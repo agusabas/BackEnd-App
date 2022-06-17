@@ -46,6 +46,7 @@ https://nodejs.org/en/download/current/
 - Selecciona el método a probar, en este caso probaremos el GET
 - Teclea la URL a probar http://127.0.0.1:8000/machine​
 - Da clic en el botón SEND
+
 ![screenshot](https://github.com/agusabas/BackEnd-App/blob/62b5b3e65bb3c07487eebc11a2a276dee90fbb76/machines%202.PNG)
 
 ## Probar el servicio POST
