@@ -60,10 +60,13 @@ https://nodejs.org/en/download/current/
 
 ![imagen POST](https://github.com/agusabas/BackEnd-App/blob/e217ddc91366f3a16dea8c9bbbe42765711fdadf/post.PNG)
 
-## Probar el servicio PUT para agregar una Máquina
+## Probar el servicio PUT para modificar el estado una Máquina
 - Selecciona el método a probar, en este caso probaremos el PUT
 - Teclea la URL a probar http://127.0.0.1:8000/machine​
+- Modificar el estado "MachineState" a false/true.
 - Da clic en el botón SEND
+![Imagen PUT](https://github.com/agusabas/BackEnd-App/blob/d5be39a8ef15c3a3d4604305fe39f8929d16fed7/PUT.PNG)
+
 
 # Yapa! Interfaz UI
 Interfaz en React Js para probar Funciones GET, POST, PUT, DELETE.
