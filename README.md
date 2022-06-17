@@ -42,10 +42,29 @@ https://nodejs.org/en/download/current/
     
 
 <!--endsec-->
-## Abrir en el navegador
-[http://127.0.0.1:8000/machine](http://127.0.0.1:8000/machine)
-
+## Probar el servicio GET para obtener todos las Máquinas registradas
+- Selecciona el método a probar, en este caso probaremos el GET
+- Teclea la URL a probar http://127.0.0.1:8000/machine​
+- Da clic en el botón SEND
 ![screenshot](https://github.com/agusabas/BackEnd-App/blob/62b5b3e65bb3c07487eebc11a2a276dee90fbb76/machines%202.PNG)
+
+## Probar el servicio POST
+- Seleccionar el método POST
+- Teclear la URL http://127.0.0.1:8000/machine​
+- Seleccionar la pestaña Body
+- Seleccionar la opción raw
+- Seleccionar el tipo JSON (application/json)
+- Copiar el JSON que obtuvimos en el GET. No es necesario agregar un "id".
+- Dar clic en el botón Send
+- Abajo puedes ver el Status en este caso fue 201 Created y en el Body te regresa el Json de la categoría insertada. 
+Si vuelves a probar el servicio GET, obtendrás la categoría recien creada. 
+Del lado izquierdo en la pestaña History se va guardado la lista de servicios llamados por si lo deseas volver a llamar.
+![imagen POST] (https://github.com/agusabas/BackEnd-App/blob/e217ddc91366f3a16dea8c9bbbe42765711fdadf/post.PNG)
+
+## Probar el servicio PUT para agregar una Máquina
+- Selecciona el método a probar, en este caso probaremos el PUT
+- Teclea la URL a probar http://127.0.0.1:8000/machine​
+- Da clic en el botón SEND
 
 # Yapa! Interfaz UI
 Interfaz en React Js para probar Funciones GET, POST, PUT, DELETE.
