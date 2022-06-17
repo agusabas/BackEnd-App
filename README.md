@@ -79,7 +79,8 @@ Interfaz en React Js para probar Funciones GET, POST, PUT, DELETE.
 <!--endsec-->
 # Instalacion (NodeJs v18 Requerida!)
 
-1- Instalar NodeJs -> https://nodejs.org/es/download/current/  **Importante:Última versión requerida** (nótese "current" (ultima version) en la dirección).
+1- Instalar NodeJs -> https://nodejs.org/es/download/current/  
+- **Importante:Última versión requerida** (nótese "current" (ultima version) en la dirección).
 
 ## Lanzar servidor local
 
