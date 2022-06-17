@@ -56,8 +56,7 @@ https://nodejs.org/en/download/current/
 - Seleccionar la opción raw
 - Seleccionar el tipo JSON (application/json)
 - Copiar el JSON que obtuvimos en el GET. No es necesario agregar un "id".
-- Dar clic en el botón Send
-- Abajo puedes ver el Status en este caso fue 201 Created y en el Body te regresa el Json de la categoría insertada. 
+- Dar clic en el botón Send.
 
 ![imagen POST](https://github.com/agusabas/BackEnd-App/blob/e217ddc91366f3a16dea8c9bbbe42765711fdadf/post.PNG)
 
