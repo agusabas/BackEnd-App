@@ -58,9 +58,8 @@ https://nodejs.org/en/download/current/
 - Copiar el JSON que obtuvimos en el GET. No es necesario agregar un "id".
 - Dar clic en el botón Send
 - Abajo puedes ver el Status en este caso fue 201 Created y en el Body te regresa el Json de la categoría insertada. 
-Si vuelves a probar el servicio GET, obtendrás la categoría recien creada. 
-Del lado izquierdo en la pestaña History se va guardado la lista de servicios llamados por si lo deseas volver a llamar.
-![imagen POST] (https://github.com/agusabas/BackEnd-App/blob/e217ddc91366f3a16dea8c9bbbe42765711fdadf/post.PNG)
+
+![imagen POST](https://github.com/agusabas/BackEnd-App/blob/e217ddc91366f3a16dea8c9bbbe42765711fdadf/post.PNG)
 
 ## Probar el servicio PUT para agregar una Máquina
 - Selecciona el método a probar, en este caso probaremos el PUT
